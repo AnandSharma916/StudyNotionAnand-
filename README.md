@@ -1,5 +1,9 @@
 # React Router Project Starter   LIVE DEMO   https://study-notion-anand.vercel.app/
 
+![Images Alt](https://github.com/AnandSharma916/StudyNotionAnand-/blob/main/studynotion1.PNG)
+![Images Alt](https://github.com/AnandSharma916/StudyNotionAnand-/blob/main/Studynotion2.PNG)
+![Images Alt](https://github.com/AnandSharma916/StudyNotionAnand-/blob/main/StudyNotion3.PNG)
+![Images Alt](https://github.com/AnandSharma916/StudyNotionAnand-/blob/main/StudyNotion4.PNG)
 # React Router Project Starter
 
 Welcome to the **React Router Project Starter**! This project serves as a foundational setup for building React applications with **React Router**, offering routing capabilities for seamless navigation between pages.
@@ -32,15 +36,14 @@ Follow these steps to get the project up and running:
 1. Clone the repository:
 
    ```bash
-   
-   git clone https://github.com/yourusername/react-router-starter.git
+   https://github.com/AnandSharma916/StudyNotionAnand-.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd react-router-starter
-   ```
+   cd StudyNotionAnand-
+    ```
 
 3. Install dependencies:
 
@@ -161,7 +164,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any queries, feel free to reach out at [your-email@example.com](mailto:your-email@example.com).
+For any queries, feel free to reach out at [anandkpp2023@gmail.com](anandkpp2023@gmail.com ).
 
 ---
 
